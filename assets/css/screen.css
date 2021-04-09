@@ -696,6 +696,14 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     opacity: 0.6;
 }
 
+.post-card-comments-link {
+    opacity: 0.6;
+}
+
+.post-card-comments-link:hover {
+    text-decoration: underline;
+}
+
 .single-author-byline {
     display: flex;
     flex-direction: column;
